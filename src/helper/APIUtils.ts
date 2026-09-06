@@ -1,5 +1,5 @@
 const PROD_URL = 'https://ultimatehealth.blog/api';
-const CONTENT_PROD_URL = 'https://ultimatehealth.blog/content-intel';
+const CONTENT_PROD_URL = 'https://ultimatehealth.blog/veiwise';
 const SOCKET_PROD = `https://ultimatehealth.blog`;
 const LOGIN_API = `${PROD_URL}/admin/login`;
 const REGISTRATION_API = `${PROD_URL}/admin/register`;
